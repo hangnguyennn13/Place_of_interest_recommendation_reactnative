@@ -1,3 +1,2 @@
 # Recommend-place-to-go-in-VN-reactnative-python
-![](app_demo.mp4)
-@video["App Demo"](app_demo.mp4 "autoplay=1")
+[![App demo video](https://img.youtube.com/vi/H70PIgYMaE0/0.jpg)](http://www.youtube.com/watch?v=H70PIgYMaE0)
